@@ -20,5 +20,10 @@ namespace WindowsService
         private void serviceInstaller1_AfterInstall(object sender, InstallEventArgs e)
         {
         }
+
+        private void ProjectInstaller_AfterInstall(object sender, InstallEventArgs e)
+        {
+            new ServiceController(serviceInstaller1.ServiceName).Start();
+        }
     }
 }
