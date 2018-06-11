@@ -1,0 +1,35 @@
+C:\Users\Frank\source\repos\ContpaqStart\ContpaqStart\bin\Debug\ContpaqStart.exe.config
+C:\Users\Frank\source\repos\ContpaqStart\ContpaqStart\bin\Debug\ContpaqStart.exe
+C:\Users\Frank\source\repos\ContpaqStart\ContpaqStart\bin\Debug\ContpaqStart.pdb
+C:\Users\Frank\source\repos\ContpaqStart\ContpaqStart\obj\Debug\ContpaqStart.csprojAssemblyReference.cache
+C:\Users\Frank\source\repos\ContpaqStart\ContpaqStart\obj\Debug\ContpaqStart.csproj.CoreCompileInputs.cache
+C:\Users\Frank\source\repos\ContpaqStart\ContpaqStart\obj\Debug\ContpaqStart.exe
+C:\Users\Frank\source\repos\ContpaqStart\ContpaqStart\obj\Debug\ContpaqStart.pdb
+C:\Users\Frank\source\repos\ContpaqStart\ContpaqStart\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Frank\source\repos\ContpaqStart\ContpaqStart\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Frank\source\repos\ContpaqStart\ContpaqStart\obj\Debug\ContpaqStart.csproj.CopyComplete
+C:\Users\Frank\source\repos\ContpaqStart\ContpaqStart\bin\Debug\Data\ServiceList.json
+C:\Users\Jorge del Angel\Downloads\ContpaqStart\ContpaqStart\ContpaqStart\bin\Debug\Data\ServiceList.json
+C:\Users\Jorge del Angel\Downloads\ContpaqStart\ContpaqStart\ContpaqStart\bin\Debug\ContpaqStart.exe.config
+C:\Users\Jorge del Angel\Downloads\ContpaqStart\ContpaqStart\ContpaqStart\bin\Debug\ContpaqStart.exe
+C:\Users\Jorge del Angel\Downloads\ContpaqStart\ContpaqStart\ContpaqStart\bin\Debug\ContpaqStart.pdb
+C:\Users\Jorge del Angel\Downloads\ContpaqStart\ContpaqStart\ContpaqStart\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jorge del Angel\Downloads\ContpaqStart\ContpaqStart\ContpaqStart\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jorge del Angel\Downloads\ContpaqStart\ContpaqStart\ContpaqStart\obj\Debug\ContpaqStart.csprojAssemblyReference.cache
+C:\Users\Jorge del Angel\Downloads\ContpaqStart\ContpaqStart\ContpaqStart\obj\Debug\ContpaqStart.csproj.CoreCompileInputs.cache
+C:\Users\Jorge del Angel\Downloads\ContpaqStart\ContpaqStart\ContpaqStart\obj\Debug\ContpaqStart.csproj.CopyComplete
+C:\Users\Jorge del Angel\Downloads\ContpaqStart\ContpaqStart\ContpaqStart\obj\Debug\ContpaqStart.exe
+C:\Users\Jorge del Angel\Downloads\ContpaqStart\ContpaqStart\ContpaqStart\obj\Debug\ContpaqStart.pdb
+C:\Users\Jorge del Angel\source\repos\ContpaqStart\ContpaqStart\bin\Debug\Data\ServiceList.json
+C:\Users\Jorge del Angel\source\repos\ContpaqStart\ContpaqStart\bin\Debug\ContpaqStart.exe.config
+C:\Users\Jorge del Angel\source\repos\ContpaqStart\ContpaqStart\bin\Debug\ContpaqStart.exe
+C:\Users\Jorge del Angel\source\repos\ContpaqStart\ContpaqStart\bin\Debug\ContpaqStart.pdb
+C:\Users\Jorge del Angel\source\repos\ContpaqStart\ContpaqStart\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jorge del Angel\source\repos\ContpaqStart\ContpaqStart\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jorge del Angel\source\repos\ContpaqStart\ContpaqStart\obj\Debug\ContpaqStart.csprojAssemblyReference.cache
+C:\Users\Jorge del Angel\source\repos\ContpaqStart\ContpaqStart\obj\Debug\ContpaqStart.ProjectInstaller.resources
+C:\Users\Jorge del Angel\source\repos\ContpaqStart\ContpaqStart\obj\Debug\ContpaqStart.csproj.GenerateResource.cache
+C:\Users\Jorge del Angel\source\repos\ContpaqStart\ContpaqStart\obj\Debug\ContpaqStart.csproj.CoreCompileInputs.cache
+C:\Users\Jorge del Angel\source\repos\ContpaqStart\ContpaqStart\obj\Debug\ContpaqStart.csproj.CopyComplete
+C:\Users\Jorge del Angel\source\repos\ContpaqStart\ContpaqStart\obj\Debug\ContpaqStart.exe
+C:\Users\Jorge del Angel\source\repos\ContpaqStart\ContpaqStart\obj\Debug\ContpaqStart.pdb
